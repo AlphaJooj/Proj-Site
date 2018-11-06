@@ -1,0 +1,42 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.stalin {text-align: center;
+	position: center;
+}
+
+.stalinfundo{
+	background-color: #FF0000;
+}
+.center{
+	width: 50%;
+	height: 60px;
+	margin: 0 auto;
+
+}
+.center ul{
+	height: 60px;
+    float: left;
+}
+.center ul li{
+	width: 25px;
+	padding: 22px 35px;
+	list-style: none;
+	float: left;
+	text-align: center;
+	color: 	#000000;
+	font-family: 'OswaldLight' ,Arial,Helvetica,sans-serif;
+	font-size: 13px;
+}
+.center ul li a{
+	text-decoration: none;
+	list-style: none;
+	color: #000000;
+}
+.center ul li:hover{
+	background-color:  	#FFF8DC;
+	transition: all 0.3s;
+	color: #414146;
+	cursor: pointer;
+}

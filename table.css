@@ -1,0 +1,20 @@
+.link{
+	border-spacing: 0px;
+	width: 50%;
+	height: 0 auto;
+	margin: 0 auto;	
+	padding-top: 100px;			
+}
+.link table{
+	background-color: #ffffff;
+	text-align: center;
+	margin-top: 30px;
+	border: 1px solid #000000;
+	border-collapse: collapse;
+}
+.link th{
+	text-align: center;
+	margin-top: 30px;
+	border: 2px solid #2F4F4F;
+	padding: 0px;
+}
